@@ -1,10 +1,11 @@
-<div align=center> 
+<h3 align=center> 
 
-  ### ✨ 주히'S Github ✨
-</div>
+   ✨ 주히'S Github ✨
+</h3>
 <br>
-<div align=center>
-  <h2>  🛠 IDEs/Editors 🛠 </h2>
+
+  <h3 align=center>  🛠 IDEs/Editors 🛠 </h2>
+  <div align=center>
   
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
