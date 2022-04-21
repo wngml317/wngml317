@@ -1,4 +1,4 @@
-### 😜 주히쓰 GITHUB 😜 
+### ✨ 주히'S GITHUB ✨ 
 
 <!--
 **wngml317/wngml317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
