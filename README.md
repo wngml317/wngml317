@@ -1,7 +1,7 @@
-<h2 align=center> 
+<h1 align=center> 
 
    JOO HEE HONG 🤪
-</h2>
+</h1>
 <br>
 
 <h3 align=center>  📝 Language 📝 </h2>
