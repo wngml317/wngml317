@@ -2,6 +2,13 @@
 
    JOO HEE HONG 🤪
 </h1>
+
+<div align="center">
+   
+<img src="https://user-images.githubusercontent.com/70615959/171821700-c76f85f7-0e41-44df-a054-162029f5fac1.png" width="300" >
+   
+</div>
+<br>
 <br>
 <h3 align=center>  🛠 Tech Stack 🛠 </h3>
 <div align=center>
