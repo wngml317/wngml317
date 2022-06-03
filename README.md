@@ -9,6 +9,7 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-39477F?style=for-the-badge&logo=amazonaws&logoColor=white)
    
 </div>
 <br>
