@@ -3,8 +3,16 @@
    JOO HEE HONG 🤪
 </h1>
 <br>
+<h3 align=center>  🛠 Tech Stack 🛠 </h3>
+<div align=center>
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+   
+</div>
+<br>
 <!--
-<h3 align=center>  📝 Language 📝 </h2>
+<h3 align=center>  📝 Language 📝 </h3>
 <div align=center>
    
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,9 +26,8 @@
 <br>
 
 <br>
-  <h3 align=center>  🛠 IDEs/Editors 🛠 </h2>
+  <h3 align=center>  🛠 IDEs/Editors 🛠 </h3>
   <div align=center>
-  
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
